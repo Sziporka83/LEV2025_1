@@ -1,5 +1,6 @@
 # 2. alkalom
 # Balog Mónika - GDDNBY
+
 '''szam = input("Kérek egy számot:")
 if szam.isdigit():
     szam = (int(szam))
