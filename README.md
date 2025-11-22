@@ -1,4 +1,6 @@
 Ez az első feladat. 
-és a második feladat is itt van. 
+második feladat is itt van.
+és a 3.feladat is itt van.
+
 
 BM- GDDNBY
